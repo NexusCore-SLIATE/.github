@@ -1,24 +1,28 @@
 ---
-name: 🐛 Bug Report
-about: Report a technical glitch or broken feature to improve our systems.
-title: "[BUG] "
-labels: bug, triage
+name: "🐛 Bug Report"
+about: Report an error, broken script component, or interface rendering glitch.
+title: "[BUG] - Brief description of the issue"
+labels: ["bug", "high-priority"]
+assignees: ""
 ---
 
-### 📝 Description
+**1. Bug Description**
 A clear and concise description of what the bug is.
 
-### 🔄 Steps to Reproduce
+**2. Steps to Reproduce**
+Steps to reproduce the behavior:
 1. Go to '...'
-2. Execute tool / Click button '....'
-3. See error '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error message.
 
-### 💥 Expected Behavior
-What should have happened instead?
+**3. Expected Behavior**
+A clear and concise description of what you expected to happen.
 
-### 💻 Environment & Tools Data
-- **Operating System:** [e.g., Linux Mint 21, Windows 11]
-- **Relevant Software / Versions:** [e.g., Firefox, Node.js v18, Nmap v7.9]
+**4. Environment Diagnostics**
+* **Operating System:** [e.g., Linux Mint 21]
+* **Browser / Runtime:** [e.g., Firefox 124, Node.js v18]
+* **Target Interface / Endpoint:** [e.g., frontend-dashboard/index.html]
 
-### 📸 Attachments
-Add any screenshots, logs, or terminal output that can speed up debugging.
+**5. Screenshots / Error Stack Logs**
+If applicable, paste your browser console logs or terminal error readouts here.

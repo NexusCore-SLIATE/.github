@@ -1,18 +1,20 @@
 ---
-name: 🚀 Feature Request
-about: Suggest an expansion, new tool module, or design layout change.
-title: "[FEATURE] "
-labels: enhancement, triage
+name: "🚀 Feature Request"
+about: Propose a new module, core capability, or structural expansion for the system matrix.
+title: "[FEATURE] - Title of proposed development"
+labels: ["feature"]
+assignees: ""
 ---
 
-### 💡 Problem Statement
-Is your feature request related to a problem or limitation? Please describe. (e.g., "It's hard to track scanning modules via CLI...")
+**1. Is your feature request related to a problem? Please describe.**
+[cite_start]A clear description of what the limitation is (e.g., "The portfolio directory doesn't allow sorting by active track tags.")[cite: 33].
 
-### 🛠️ Proposed Solution
-Describe the solution or addition you'd like to see implemented.
+**2. Proposed Solution Blueprint**
+[cite_start]A detailed description of what you want to build and how it integrates into the production file architecture[cite: 46].
 
-### 🎨 Alternative Approaches
-Any alternative solutions or features you've considered.
+**3. Technical Architecture Scope**
+* [cite_start]**Target Directories:** [e.g., `assets/js/modules/`] [cite: 48, 51, 55]
+* [cite_start]**Data Dependencies:** [e.g., Modifying objects inside `data-store.js`] [cite: 53]
 
-### 📌 Additional Context
-Add any architectural drawings, wireframe links, or background context here.
+**4. Additional Context**
+Add any other context, mockup drawings, or functional constraints here.

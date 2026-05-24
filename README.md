@@ -1,4 +1,3 @@
-# .github
 # 🚀 NexusCore-SLIATE
 
 Welcome to the central engineering hub of NexusCore, based at ATI Badulla (HNDIT). We are a scalable, student-led technical ecosystem built to bridge the gap between academic theory and production-grade engineering.

@@ -1,6 +1,6 @@
-<h3 align="center">
+<h5 align="center">
   NexusCore-SLIATE | Student-Led Technical Ecosystem
-</h3>
+</h5>
 
 <p align="center">
   <sub>ATI Badulla · HNDIT</sub>
@@ -21,9 +21,9 @@
 
 Welcome to the central engineering hub of **NexusCore**, hosted by the Advanced Technological Institute (ATI), Badulla. NexusCore operates as a scalable, student-led technical collective dedicated to transitioning standard academic curricula into robust, production-ready engineering practices.
 
----
+ 
 
-## Core Focus Areas
+## Core Focus Areas  
 
 | Domain | Focus Scope | Key Deliverables |
 | :--- | :--- | :--- |
@@ -32,15 +32,11 @@ Welcome to the central engineering hub of **NexusCore**, hosted by the Advanced 
 | **Product Design (UI/UX)** | Design systems & interaction design | High-fidelity prototypes, design tokens, unified component kits |
 | **DevOps & Open Source** | CI/CD, automation & VCS governance | Deployment pipelines, containerized environments, open tooling |
 
----
+<br>
+<br>
 
-## Repository Architecture
-
-To maintain standard naming conventions and automated repository routing across the organization, all projects adhere to the following prefix taxonomy:
-
-```text
-├── web-*   ──> Frontend clients and full-stack web platforms
-├── api-*   ──> Independent microservices, backend platforms, and REST APIs
-├── sec-*   ──> Security automation, lab configs, and vulnerability scenarios
-├── des-*   ──> Vector assets, branding guidelines, and shared design tokens
-└── edu-*   ──> Lecture code samples, workshop exercises, and internal guides
+<p align="center">
+    <strong>Learn → Build → Collaborate → Deliver</strong>
+  <br>
+  <sub>Student-led engineering • Practical experience • Open collaboration</sub>
+</p>

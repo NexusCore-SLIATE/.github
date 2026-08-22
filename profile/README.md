@@ -1,7 +1,7 @@
-<h5 align="center">
+<h2 align="center">
   NexusCore-SLIATE | Student-Led Technical Ecosystem
-</h5>
-
+</h2>
+ 
 <p align="center">
   <sub>ATI Badulla · HNDIT</sub>
 </p>

@@ -1,12 +1,46 @@
-## Hi there 👋
+<h3 align="center">
+  NexusCore-SLIATE | Student-Led Technical Ecosystem
+</h3>
 
-<!--
+<p align="center">
+  <sub>ATI Badulla · HNDIT</sub>
+</p>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  <i>Bridging academic theory with production-grade engineering.</i>
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-0D1117?style=for-the-badge&logo=code&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/UI%2FUX-0D1117?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+## Overview
+
+Welcome to the central engineering hub of **NexusCore**, hosted by the Advanced Technological Institute (ATI), Badulla. NexusCore operates as a scalable, student-led technical collective dedicated to transitioning standard academic curricula into robust, production-ready engineering practices.
+
+---
+
+## Core Focus Areas
+
+| Domain | Focus Scope | Key Deliverables |
+| :--- | :--- | :--- |
+| **Software Engineering** | Full-stack architecture & system design | Distributed web apps, REST/gRPC APIs, clean codebases |
+| **Cybersecurity & Infra** | Defensive security, penetration testing & networking | Lab simulations, hardening scripts, network topology maps |
+| **Product Design (UI/UX)** | Design systems & interaction design | High-fidelity prototypes, design tokens, unified component kits |
+| **DevOps & Open Source** | CI/CD, automation & VCS governance | Deployment pipelines, containerized environments, open tooling |
+
+---
+
+## Repository Architecture
+
+To maintain standard naming conventions and automated repository routing across the organization, all projects adhere to the following prefix taxonomy:
+
+```text
+├── web-*   ──> Frontend clients and full-stack web platforms
+├── api-*   ──> Independent microservices, backend platforms, and REST APIs
+├── sec-*   ──> Security automation, lab configs, and vulnerability scenarios
+├── des-*   ──> Vector assets, branding guidelines, and shared design tokens
+└── edu-*   ──> Lecture code samples, workshop exercises, and internal guides
